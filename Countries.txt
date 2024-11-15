@@ -1,0 +1,5 @@
+{ name: India, population: 1.3B, GDP: 1947, GrowthRate: 7.0% }
+{ name: USA, population: 331M, GDP: 1776, GrowthRate: 2.3% }
+{ name: China, population: 1.4B, GDP: 1949, GrowthRate: 6.1% }
+{ name: Germany, population: 83M, GDP: 1871, GrowthRate: 1.1% }
+{ name: Japan, population: 126M, GDP: 1952, GrowthRate: 0.9% }
